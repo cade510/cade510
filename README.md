@@ -1,8 +1,15 @@
-Hi, I'm Cade!
+## 👋 Hi, I'm Cade Alheim
 
-I am interested in learning more about programming and software development.
+I'm a senior Informatics student with a concentration in Computer Science at Indiana University South Bend.
 
-- I’m currently working on a mobile app project
-- I’m currently learning Dart/Flutter
-- I’m looking to collaborate on mobile app development and web development projects.
-- How to reach me: cademike@rocketmail.com
+🚀 I'm currently developing **HelpOut**, a Flutter-based mobile app designed to connect people with volunteer opportunities in their communities.
+
+### 🛠️ HelpOut features include:
+- Event creation and management  
+- Geolocation-based filtering  
+- User sign-ups and tracking  
+- Firebase integration for real-time data handling
+
+I'm passionate about building meaningful tech that brings people together.
+
+📬 Feel free to reach out: **cademike@rocketmail.com**
